@@ -1,4 +1,6 @@
 
+// Callback hell
+
 doSomethingAsync(function(data, err) {
     if (err) {
         handleError(err);
